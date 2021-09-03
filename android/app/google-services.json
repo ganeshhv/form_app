@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534472759774",
+    "project_id": "formapp-87671",
+    "storage_bucket": "formapp-87671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534472759774:android:6b6a3fbd81e2bc68e2e54f",
+        "android_client_info": {
+          "package_name": "com.ganesh.form_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534472759774-v88rmn97qdde3gceu3kjjblmeq0vm9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaTz1GRUsy4FJTl5Z4qSDCHu6WFl97FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534472759774-v88rmn97qdde3gceu3kjjblmeq0vm9k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
